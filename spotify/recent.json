@@ -1,6 +1,108 @@
 {
   "items": [
     {
+      "played_at": "2026-09-19T17:23:40.041Z",
+      "track": {
+        "id": "1Rl9GHgsflyIVqBRyO45Zo",
+        "name": "Boogie Oogie Oogie",
+        "duration_ms": 245173,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo"
+        },
+        "artists": [
+          {
+            "id": "1ii6e2pv8VIRwnTER71rMl",
+            "name": "A Taste Of Honey"
+          }
+        ],
+        "album": {
+          "name": "A Taste Of Honey",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2731da1b4064fc8eb0d2a65dc97",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e021da1b4064fc8eb0d2a65dc97",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048511da1b4064fc8eb0d2a65dc97",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-19T17:19:37.642Z",
+      "track": {
+        "id": "2R0zbd80CqwoB0ORDCqDoK",
+        "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
+        "duration_ms": 235933,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK"
+        },
+        "artists": [
+          {
+            "id": "6gYjIUFuKIBVJfxXnmrd5P",
+            "name": "Carl Carlton"
+          }
+        ],
+        "album": {
+          "name": "Carl Carlton (Expanded Edition)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02d33cf0f26efdf538bfd6864e",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851d33cf0f26efdf538bfd6864e",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-19T17:15:44.504Z",
+      "track": {
+        "id": "5emxp4RqsF6QoAWXW2Afrk",
+        "name": "Peg",
+        "duration_ms": 237066,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
+        },
+        "artists": [
+          {
+            "id": "6P7H3ai06vU1sGvdpBwDmE",
+            "name": "Steely Dan"
+          }
+        ],
+        "album": {
+          "name": "Aja",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02cf39e4261576717ff4737bb6",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851cf39e4261576717ff4737bb6",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-09-19T17:11:50.256Z",
       "track": {
         "id": "4yrM5BVyJzy5Ed4GPO6e8j",
