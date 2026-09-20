@@ -1,6 +1,346 @@
 {
   "items": [
     {
+      "played_at": "2026-09-20T09:11:50.152Z",
+      "track": {
+        "id": "0Eq4BMgsdV6DkLSJfX8eBt",
+        "name": "Fantasy - Single Version",
+        "duration_ms": 225501,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
+        },
+        "artists": [
+          {
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire"
+          }
+        ],
+        "album": {
+          "name": "The Best Of Earth, Wind & Fire Vol. 1",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2732e7558daae7a80e1f5819aa1",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e022e7558daae7a80e1f5819aa1",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048512e7558daae7a80e1f5819aa1",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T09:08:07.433Z",
+      "track": {
+        "id": "5MIgTjcn94EPeSUUo8dx4q",
+        "name": "More Spell On You",
+        "duration_ms": 310693,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MIgTjcn94EPeSUUo8dx4q"
+        },
+        "artists": [
+          {
+            "id": "5lm6ULGxxq8LD82j5Jp9P1",
+            "name": "Eddie Johns"
+          }
+        ],
+        "album": {
+          "name": "More Spell On You",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273ed982ee3dc8eda8afdd5ba99",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02ed982ee3dc8eda8afdd5ba99",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851ed982ee3dc8eda8afdd5ba99",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T09:02:59.514Z",
+      "track": {
+        "id": "4OJFkrRQqol4FsPesF8eu4",
+        "name": "Saturday in the Park - 2002 Remaster",
+        "duration_ms": 235666,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
+        },
+        "artists": [
+          {
+            "id": "3iDD7bnsjL9J4fO298r0L0",
+            "name": "Chicago"
+          }
+        ],
+        "album": {
+          "name": "Chicago V (Expanded & Remastered)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2738fd00df189dedf5d4eb5d9e1",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e028fd00df189dedf5d4eb5d9e1",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048518fd00df189dedf5d4eb5d9e1",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T08:59:06.614Z",
+      "track": {
+        "id": "47oS7xB31QQUyPCgHpM3VZ",
+        "name": "Canned Heat",
+        "duration_ms": 331760,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ"
+        },
+        "artists": [
+          {
+            "id": "6J7biCazzYhU3gM9j1wfid",
+            "name": "Jamiroquai"
+          }
+        ],
+        "album": {
+          "name": "Synkronized",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e024ccb64f022a53d3e8ec84a20",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048514ccb64f022a53d3e8ec84a20",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T08:53:37.646Z",
+      "track": {
+        "id": "5dFoWIiJ2814hRwMYDcFiU",
+        "name": "She's Gone",
+        "duration_ms": 313373,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+        },
+        "artists": [
+          {
+            "id": "77tT1kLj6mCWtFNqiOmP9H",
+            "name": "Daryl Hall & John Oates"
+          }
+        ],
+        "album": {
+          "name": "Abandoned Luncheonette",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273f0302cabc362df3517ff7e4c",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02f0302cabc362df3517ff7e4c",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851f0302cabc362df3517ff7e4c",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T08:48:27.120Z",
+      "track": {
+        "id": "0RgcOUQg4qYAEt9RIdf3oB",
+        "name": "Shining Star",
+        "duration_ms": 170212,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+        },
+        "artists": [
+          {
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire"
+          }
+        ],
+        "album": {
+          "name": "That's The Way Of The World",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2733e716266190c38e929f209cf",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e023e716266190c38e929f209cf",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048513e716266190c38e929f209cf",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T08:45:39.560Z",
+      "track": {
+        "id": "72PoJMDfdaw9gGECgA9kTZ",
+        "name": "Nothing From Nothing",
+        "duration_ms": 156200,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
+        },
+        "artists": [
+          {
+            "id": "0IecGJbdBeYSOVtSPRehh5",
+            "name": "Billy Preston"
+          }
+        ],
+        "album": {
+          "name": "The Kids & Me",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2731dd97e315f3a1ebeb420c1dd",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e021dd97e315f3a1ebeb420c1dd",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048511dd97e315f3a1ebeb420c1dd",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T08:43:06.199Z",
+      "track": {
+        "id": "58r4JuwHhXLAkttkaUZfLw",
+        "name": "Got to Be Real",
+        "duration_ms": 307946,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
+        },
+        "artists": [
+          {
+            "id": "6UfoTQXaV3DuqtDVjZIxwZ",
+            "name": "Cheryl Lynn"
+          }
+        ],
+        "album": {
+          "name": "Cheryl Lynn (Expanded Edition)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273c0e98d7c48b548f1a3833368",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02c0e98d7c48b548f1a3833368",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851c0e98d7c48b548f1a3833368",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T08:38:00.981Z",
+      "track": {
+        "id": "7mimnm2QlSzW3J38FRMETP",
+        "name": "Thinking of You - 1995 Remaster",
+        "duration_ms": 266826,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+        },
+        "artists": [
+          {
+            "id": "6gkWznnJkdkwRPVcmnrays",
+            "name": "Sister Sledge"
+          }
+        ],
+        "album": {
+          "name": "We Are Family (1995 Remaster)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273f66d92378b233aa8253e71d2",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02f66d92378b233aa8253e71d2",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851f66d92378b233aa8253e71d2",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T08:33:36.966Z",
+      "track": {
+        "id": "3MFa9idQuY4iJLWsZl3tIQ",
+        "name": "Young Hearts Run Free",
+        "duration_ms": 248360,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
+        },
+        "artists": [
+          {
+            "id": "3S34Unhn5yRcaH5K9aU5Et",
+            "name": "Candi Staton"
+          }
+        ],
+        "album": {
+          "name": "Young Hearts Run Free (US Internet Release)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e18a7b375dd2d9c8c8a3d67",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e029e18a7b375dd2d9c8c8a3d67",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048519e18a7b375dd2d9c8c8a3d67",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-09-19T17:23:40.041Z",
       "track": {
         "id": "1Rl9GHgsflyIVqBRyO45Zo",
@@ -538,74 +878,6 @@
             },
             {
               "url": "https://i.scdn.co/image/ab67616d000048510538b48c180256e0bdd8363f",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-09-13T07:48:14.184Z",
-      "track": {
-        "id": "54XN1CsawQhtwdGEyEuODP",
-        "name": "Secrets",
-        "duration_ms": 224423,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/54XN1CsawQhtwdGEyEuODP"
-        },
-        "artists": [
-          {
-            "id": "1qqdO7xMptucPDMopsOdkr",
-            "name": "State Champs"
-          }
-        ],
-        "album": {
-          "name": "Around the World and Back",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273ffc9fb1a9b04cad3b40ee070",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02ffc9fb1a9b04cad3b40ee070",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851ffc9fb1a9b04cad3b40ee070",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-09-13T07:44:06.299Z",
-      "track": {
-        "id": "7oDFvnqXkXuiZa1sACXobj",
-        "name": "The Bends",
-        "duration_ms": 246200,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7oDFvnqXkXuiZa1sACXobj"
-        },
-        "artists": [
-          {
-            "id": "4Z8W4fKeB5YxbusRsdQVPb",
-            "name": "Radiohead"
-          }
-        ],
-        "album": {
-          "name": "The Bends",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048519293c743fa542094336c5e12",
               "width": 64
             }
           ]
