@@ -849,40 +849,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-09-13T13:02:18.076Z",
-      "track": {
-        "id": "26AYR77170U49cMcXB7aRV",
-        "name": "Feeling This",
-        "duration_ms": 172645,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV"
-        },
-        "artists": [
-          {
-            "id": "6FBDaR13swtiWwGhX1WQsP",
-            "name": "blink-182"
-          }
-        ],
-        "album": {
-          "name": "blink-182",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2730538b48c180256e0bdd8363f",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e020538b48c180256e0bdd8363f",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048510538b48c180256e0bdd8363f",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
