@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "played_at": "2026-09-20T19:48:22.022Z",
+      "track": {
+        "id": "3qZHUZTQiTMfJXcUYzY5mT",
+        "name": "In the Stone",
+        "duration_ms": 288153,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
+        },
+        "artists": [
+          {
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire"
+          }
+        ],
+        "album": {
+          "name": "I Am",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e028b2238ebc2b233ba73b8c4ca",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048518b2238ebc2b233ba73b8c4ca",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-09-20T09:11:50.152Z",
       "track": {
         "id": "0Eq4BMgsdV6DkLSJfX8eBt",
