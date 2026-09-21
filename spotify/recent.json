@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "played_at": "2026-09-21T05:19:20.675Z",
+      "track": {
+        "id": "13v3siPyvy5TTEZYmGPPse",
+        "name": "Give It To Me Baby",
+        "duration_ms": 248133,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
+        },
+        "artists": [
+          {
+            "id": "0FrpdcVlJQqibaz5HfBUrL",
+            "name": "Rick James"
+          }
+        ],
+        "album": {
+          "name": "Street Songs (Deluxe Edition)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0217f9e7e7784ed40b223e261c",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485117f9e7e7784ed40b223e261c",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-21T05:08:19.832Z",
+      "track": {
+        "id": "2u3apT4hVtL9NaIIhp1eKe",
+        "name": "Let Your Feelings Show",
+        "duration_ms": 313540,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2u3apT4hVtL9NaIIhp1eKe"
+        },
+        "artists": [
+          {
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire"
+          }
+        ],
+        "album": {
+          "name": "I Am",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e028b2238ebc2b233ba73b8c4ca",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048518b2238ebc2b233ba73b8c4ca",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-09-21T05:03:09.076Z",
       "track": {
         "id": "4P91jW5QmEkhoLgdMujp82",
