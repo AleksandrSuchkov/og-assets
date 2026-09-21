@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "played_at": "2026-09-21T05:03:09.076Z",
+      "track": {
+        "id": "4P91jW5QmEkhoLgdMujp82",
+        "name": "Do I Do",
+        "duration_ms": 303466,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82"
+        },
+        "artists": [
+          {
+            "id": "7guDJrEfX3qb6FEbdPA5qi",
+            "name": "Stevie Wonder"
+          }
+        ],
+        "album": {
+          "name": "The Definitive Collection (Deluxe Edition)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02835ed5fb9b70f46c3177ffde",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851835ed5fb9b70f46c3177ffde",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-09-20T19:48:22.022Z",
+      "track": {
+        "id": "3qZHUZTQiTMfJXcUYzY5mT",
+        "name": "In the Stone",
+        "duration_ms": 288153,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
+        },
+        "artists": [
+          {
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire"
+          }
+        ],
+        "album": {
+          "name": "I Am",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e028b2238ebc2b233ba73b8c4ca",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048518b2238ebc2b233ba73b8c4ca",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-09-20T19:48:22.022Z",
       "track": {
         "id": "3qZHUZTQiTMfJXcUYzY5mT",
