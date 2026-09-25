@@ -713,40 +713,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-09-18T12:47:10.852Z",
-      "track": {
-        "id": "65Qe2BvSSTOEC9ElDw3JgP",
-        "name": "Gagging Order",
-        "duration_ms": 216000,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/65Qe2BvSSTOEC9ElDw3JgP"
-        },
-        "artists": [
-          {
-            "id": "4Z8W4fKeB5YxbusRsdQVPb",
-            "name": "Radiohead"
-          }
-        ],
-        "album": {
-          "name": "Com Lag: 2+2=5",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273232861e18a4ec4be4d923eb5",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02232861e18a4ec4be4d923eb5",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851232861e18a4ec4be4d923eb5",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
