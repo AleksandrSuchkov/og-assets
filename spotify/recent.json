@@ -887,40 +887,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-09-29T15:04:47.597Z",
-      "track": {
-        "id": "73CKjW3vsUXRpy3NnX4H7F",
-        "name": "Fake Plastic Trees",
-        "duration_ms": 290706,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
-        },
-        "artists": [
-          {
-            "id": "4Z8W4fKeB5YxbusRsdQVPb",
-            "name": "Radiohead"
-          }
-        ],
-        "album": {
-          "name": "The Bends",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048519293c743fa542094336c5e12",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
