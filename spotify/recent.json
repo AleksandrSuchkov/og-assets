@@ -921,40 +921,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-09-28T20:43:47.327Z",
-      "track": {
-        "id": "0cs6iQDqtFYqI3tY3ruv0G",
-        "name": "Chapter 13/Non-Musical Silence",
-        "duration_ms": 307293,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0cs6iQDqtFYqI3tY3ruv0G"
-        },
-        "artists": [
-          {
-            "id": "7gkRNHOOt7QfhhXf0rEnmj",
-            "name": "+44"
-          }
-        ],
-        "album": {
-          "name": "When Your Heart Stops Beating",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273a6db79c5b74b97a034857afc",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02a6db79c5b74b97a034857afc",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851a6db79c5b74b97a034857afc",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
