@@ -547,40 +547,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-09-30T21:44:49.299Z",
-      "track": {
-        "id": "1dpHnn6eh4Pz55UproSdJv",
-        "name": "так похуй",
-        "duration_ms": 108000,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1dpHnn6eh4Pz55UproSdJv"
-        },
-        "artists": [
-          {
-            "id": "1Q5COYHgA7ch0y3HqCNgwt",
-            "name": "madk1d"
-          }
-        ],
-        "album": {
-          "name": "sexyswag",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b27341f2347d065be0487b9f5c96",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e0241f2347d065be0487b9f5c96",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000485141f2347d065be0487b9f5c96",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
