@@ -513,40 +513,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-10-05T15:42:49.897Z",
-      "track": {
-        "id": "6rBZtu8XpzdZT83CEp4zVT",
-        "name": "In Limbo",
-        "duration_ms": 211000,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6rBZtu8XpzdZT83CEp4zVT"
-        },
-        "artists": [
-          {
-            "id": "4Z8W4fKeB5YxbusRsdQVPb",
-            "name": "Radiohead"
-          }
-        ],
-        "album": {
-          "name": "KID A MNESIA",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273bbaaa8bf9aedb07135d2c6d3",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02bbaaa8bf9aedb07135d2c6d3",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851bbaaa8bf9aedb07135d2c6d3",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
