@@ -479,40 +479,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-10-07T08:51:32.119Z",
-      "track": {
-        "id": "5395yqt6OBJ4yLQrg50YWX",
-        "name": "UFOs in the Sky",
-        "duration_ms": 246075,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5395yqt6OBJ4yLQrg50YWX"
-        },
-        "artists": [
-          {
-            "id": "4OuSiJSnuRsK0dTM0dtm1R",
-            "name": "Driveways"
-          }
-        ],
-        "album": {
-          "name": "Skeptic",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b27350568c5d0eb830d05eb4edef",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e0250568c5d0eb830d05eb4edef",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000485150568c5d0eb830d05eb4edef",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
