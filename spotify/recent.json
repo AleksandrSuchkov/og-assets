@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "played_at": "2026-10-17T19:11:59.549Z",
+      "track": {
+        "id": "2cUOmtBGTINJW3H0J37Oia",
+        "name": "Sign of the Times - triple j Like A Version",
+        "duration_ms": 261588,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2cUOmtBGTINJW3H0J37Oia"
+        },
+        "artists": [
+          {
+            "id": "4W48hZAnAHVOC2c8WH8pcq",
+            "name": "The Temper Trap"
+          },
+          {
+            "id": "2ztWo9ZI0S6mzpQVmmMcE1",
+            "name": "triple j"
+          }
+        ],
+        "album": {
+          "name": "Sign of the Times (triple j Like A Version)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2736cfb7cf6f39abedb37a1b4ab",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e026cfb7cf6f39abedb37a1b4ab",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048516cfb7cf6f39abedb37a1b4ab",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-10-17T14:38:08.385Z",
       "track": {
         "id": "7yYi1Wdv7pWn3j71Xm5H38",
@@ -528,40 +566,6 @@
     },
     {
       "played_at": "2026-10-16T12:44:25.875Z",
-      "track": {
-        "id": "0SSXpjr8kYmCOziXhABIZl",
-        "name": "Miss the Darker Nights",
-        "duration_ms": 227234,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0SSXpjr8kYmCOziXhABIZl"
-        },
-        "artists": [
-          {
-            "id": "5UuvCjt4c4BvzGwK4W0ipD",
-            "name": "Stray Fossa"
-          }
-        ],
-        "album": {
-          "name": "Sleeper Strip",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b27383ba1f004c0fcf64a35f1741",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e0283ba1f004c0fcf64a35f1741",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000485183ba1f004c0fcf64a35f1741",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-10T17:49:44.067Z",
       "track": {
         "id": "0SSXpjr8kYmCOziXhABIZl",
         "name": "Miss the Darker Nights",
