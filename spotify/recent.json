@@ -1,6 +1,312 @@
 {
   "items": [
     {
+      "played_at": "2026-10-23T11:08:38.179Z",
+      "track": {
+        "id": "3iFOzfUrSSyfvs2HzJ5GhL",
+        "name": "Direction",
+        "duration_ms": 170306,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3iFOzfUrSSyfvs2HzJ5GhL"
+        },
+        "artists": [
+          {
+            "id": "5rOjuB5uYAoDMHgZM6CFBB",
+            "name": "Mat Kerekes"
+          }
+        ],
+        "album": {
+          "name": "Luna & the Wild Blue Everything",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273ec350ff0f3b0c6a84638ecd5",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02ec350ff0f3b0c6a84638ecd5",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851ec350ff0f3b0c6a84638ecd5",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-10-23T11:05:50.607Z",
+      "track": {
+        "id": "1pheXhVRP3TVjjf9PeYuOU",
+        "name": "I Want To Hear You Sad",
+        "duration_ms": 210053,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU"
+        },
+        "artists": [
+          {
+            "id": "2rxtSTPBJawYhQAXIpgEAi",
+            "name": "The Early November"
+          }
+        ],
+        "album": {
+          "name": "For All Of This",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27347cbe9725b53bae059a1267c",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0247cbe9725b53bae059a1267c",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485147cbe9725b53bae059a1267c",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-10-23T11:02:23.385Z",
+      "track": {
+        "id": "0YC8wQ00AC04d5W2CBdd69",
+        "name": "Familiar Theme",
+        "duration_ms": 198663,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YC8wQ00AC04d5W2CBdd69"
+        },
+        "artists": [
+          {
+            "id": "1u3l44NMyNo8xe8ykBZtFp",
+            "name": "Somos"
+          }
+        ],
+        "album": {
+          "name": "Temple of Plenty",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273367a1208a56ca92dd08e9843",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02367a1208a56ca92dd08e9843",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851367a1208a56ca92dd08e9843",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-10-23T10:59:07.433Z",
+      "track": {
+        "id": "4okVNqpGk7OA61vmlzkewe",
+        "name": "Action & Action",
+        "duration_ms": 245840,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4okVNqpGk7OA61vmlzkewe"
+        },
+        "artists": [
+          {
+            "id": "54Bjxn26WsjfslQbNVtSCm",
+            "name": "The Get Up Kids"
+          }
+        ],
+        "album": {
+          "name": "Something to Write Home About",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2734356bce7515097bdf7929296",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e024356bce7515097bdf7929296",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048514356bce7515097bdf7929296",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-10-23T10:49:01.636Z",
+      "track": {
+        "id": "6kflm8VuNgytGbUWkLcFt2",
+        "name": "よだか",
+        "duration_ms": 164008,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kflm8VuNgytGbUWkLcFt2"
+        },
+        "artists": [
+          {
+            "id": "7mPU5YS06Msig34yoAHBHL",
+            "name": "Trooper Salute"
+          }
+        ],
+        "album": {
+          "name": "友達がいました",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27316435e84669c2c22816662eb",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0216435e84669c2c22816662eb",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485116435e84669c2c22816662eb",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-10-23T10:46:20.325Z",
+      "track": {
+        "id": "7Iv2Z6bZFVmIlFiCnMAyAL",
+        "name": "ホーリーナイト",
+        "duration_ms": 265754,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Iv2Z6bZFVmIlFiCnMAyAL"
+        },
+        "artists": [
+          {
+            "id": "7mPU5YS06Msig34yoAHBHL",
+            "name": "Trooper Salute"
+          }
+        ],
+        "album": {
+          "name": "友達がいました",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27316435e84669c2c22816662eb",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0216435e84669c2c22816662eb",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485116435e84669c2c22816662eb",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-10-23T10:38:47.119Z",
+      "track": {
+        "id": "4Whz6slxsLVtKkPhN3iOo3",
+        "name": "埒",
+        "duration_ms": 288984,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Whz6slxsLVtKkPhN3iOo3"
+        },
+        "artists": [
+          {
+            "id": "7mPU5YS06Msig34yoAHBHL",
+            "name": "Trooper Salute"
+          }
+        ],
+        "album": {
+          "name": "友達がいました",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27316435e84669c2c22816662eb",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0216435e84669c2c22816662eb",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485116435e84669c2c22816662eb",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-10-23T10:34:00.908Z",
+      "track": {
+        "id": "55Kl6ZGDnxIcKVg3GBNAKr",
+        "name": "天使ちゃんだよ",
+        "duration_ms": 245366,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/55Kl6ZGDnxIcKVg3GBNAKr"
+        },
+        "artists": [
+          {
+            "id": "7mPU5YS06Msig34yoAHBHL",
+            "name": "Trooper Salute"
+          }
+        ],
+        "album": {
+          "name": "天使ちゃんだよ",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27339552b1668f9ab1dcd4c81ee",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0239552b1668f9ab1dcd4c81ee",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485139552b1668f9ab1dcd4c81ee",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-10-23T10:29:58.340Z",
+      "track": {
+        "id": "4hTJX80GPyvoWHf720OegJ",
+        "name": "絶縁",
+        "duration_ms": 390101,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hTJX80GPyvoWHf720OegJ"
+        },
+        "artists": [
+          {
+            "id": "7mPU5YS06Msig34yoAHBHL",
+            "name": "Trooper Salute"
+          }
+        ],
+        "album": {
+          "name": "友達がいました",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27316435e84669c2c22816662eb",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0216435e84669c2c22816662eb",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485116435e84669c2c22816662eb",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-10-21T12:39:51.924Z",
       "track": {
         "id": "4okVNqpGk7OA61vmlzkewe",
@@ -826,146 +1132,6 @@
             },
             {
               "url": "https://i.scdn.co/image/ab67616d0000485118cdf1e2b9a0ab04b987699b",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-16T13:03:03.038Z",
-      "track": {
-        "id": "461DAGzoGETwtBN1eIVwWK",
-        "name": "Camas Lily",
-        "duration_ms": 131320,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/461DAGzoGETwtBN1eIVwWK"
-        },
-        "artists": [
-          {
-            "id": "0vfz8aLN7UtvWnFlB3DwXG",
-            "name": "Fabi."
-          }
-        ],
-        "album": {
-          "name": "Camas Lily",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2737a5cdaf2a7f7d4455d8165d1",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e027a5cdaf2a7f7d4455d8165d1",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048517a5cdaf2a7f7d4455d8165d1",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-16T12:57:32.072Z",
-      "track": {
-        "id": "2nxsLJwW4eFDwl36fUQJWe",
-        "name": "Going to Babble On",
-        "duration_ms": 246226,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2nxsLJwW4eFDwl36fUQJWe"
-        },
-        "artists": [
-          {
-            "id": "0epOFNiUfyON9EYx7Tpr6V",
-            "name": "The Strokes"
-          }
-        ],
-        "album": {
-          "name": "Reality Awaits",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2736b458d1409d938dad4e3ba2c",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e026b458d1409d938dad4e3ba2c",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048516b458d1409d938dad4e3ba2c",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-16T12:49:02.106Z",
-      "track": {
-        "id": "06V7nGqOlvFBmmTiWiWKSV",
-        "name": "Heel",
-        "duration_ms": 243419,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/06V7nGqOlvFBmmTiWiWKSV"
-        },
-        "artists": [
-          {
-            "id": "7ptm7G8z8VVvwBnDq8fAmD",
-            "name": "Microwave"
-          },
-          {
-            "id": "3fb4gi3qlazKZgBvm58fVS",
-            "name": "Puddle Splasher"
-          }
-        ],
-        "album": {
-          "name": "Step Inside",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b27357ef37a365d500e51b61f5a4",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e0257ef37a365d500e51b61f5a4",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000485157ef37a365d500e51b61f5a4",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-16T12:44:25.875Z",
-      "track": {
-        "id": "0SSXpjr8kYmCOziXhABIZl",
-        "name": "Miss the Darker Nights",
-        "duration_ms": 227234,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0SSXpjr8kYmCOziXhABIZl"
-        },
-        "artists": [
-          {
-            "id": "5UuvCjt4c4BvzGwK4W0ipD",
-            "name": "Stray Fossa"
-          }
-        ],
-        "album": {
-          "name": "Sleeper Strip",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b27383ba1f004c0fcf64a35f1741",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e0283ba1f004c0fcf64a35f1741",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000485183ba1f004c0fcf64a35f1741",
               "width": 64
             }
           ]
