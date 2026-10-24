@@ -951,44 +951,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-10-17T19:11:59.549Z",
-      "track": {
-        "id": "2cUOmtBGTINJW3H0J37Oia",
-        "name": "Sign of the Times - triple j Like A Version",
-        "duration_ms": 261588,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2cUOmtBGTINJW3H0J37Oia"
-        },
-        "artists": [
-          {
-            "id": "4W48hZAnAHVOC2c8WH8pcq",
-            "name": "The Temper Trap"
-          },
-          {
-            "id": "2ztWo9ZI0S6mzpQVmmMcE1",
-            "name": "triple j"
-          }
-        ],
-        "album": {
-          "name": "Sign of the Times (triple j Like A Version)",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2736cfb7cf6f39abedb37a1b4ab",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e026cfb7cf6f39abedb37a1b4ab",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048516cfb7cf6f39abedb37a1b4ab",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
