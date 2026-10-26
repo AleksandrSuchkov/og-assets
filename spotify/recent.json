@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "played_at": "2026-10-26T17:11:01.156Z",
+      "track": {
+        "id": "1TvNcWY7WwPLQINhimxycA",
+        "name": "Hear You Me",
+        "duration_ms": 284373,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
+        },
+        "artists": [
+          {
+            "id": "3Ayl7mCk0nScecqOzvNp6s",
+            "name": "Jimmy Eat World"
+          }
+        ],
+        "album": {
+          "name": "Bleed American",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0295d1d98c5176e4f982bd73d6",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-10-26T06:56:15.362Z",
       "track": {
         "id": "5JHNg1hxZFT7TDEphhM4wj",
