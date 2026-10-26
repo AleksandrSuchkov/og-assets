@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "played_at": "2026-10-26T06:56:15.362Z",
+      "track": {
+        "id": "5JHNg1hxZFT7TDEphhM4wj",
+        "name": "Waiting for the End",
+        "duration_ms": 231680,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JHNg1hxZFT7TDEphhM4wj"
+        },
+        "artists": [
+          {
+            "id": "6XyY86QOPPrYVGvF9ch6wz",
+            "name": "Linkin Park"
+          }
+        ],
+        "album": {
+          "name": "A Thousand Suns",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27359211e56a493ac4509457bab",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0259211e56a493ac4509457bab",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485159211e56a493ac4509457bab",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-10-25T18:00:35.223Z",
       "track": {
         "id": "3xXBsjrbG1xQIm1xv1cKOt",
@@ -790,142 +824,6 @@
         "duration_ms": 219666,
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6c9UjtsLpfK5hTwTrdRDbR"
-        },
-        "artists": [
-          {
-            "id": "6FBDaR13swtiWwGhX1WQsP",
-            "name": "blink-182"
-          }
-        ],
-        "album": {
-          "name": "Take Off Your Pants And Jacket",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273d9d27e5b56e2b983e54dba64",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02d9d27e5b56e2b983e54dba64",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851d9d27e5b56e2b983e54dba64",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-19T07:31:03.174Z",
-      "track": {
-        "id": "5lE1g5Qsi1stIjYh8O5FC1",
-        "name": "Happy Holidays, You Bastard",
-        "duration_ms": 42400,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5lE1g5Qsi1stIjYh8O5FC1"
-        },
-        "artists": [
-          {
-            "id": "6FBDaR13swtiWwGhX1WQsP",
-            "name": "blink-182"
-          }
-        ],
-        "album": {
-          "name": "Take Off Your Pants And Jacket",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273d9d27e5b56e2b983e54dba64",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02d9d27e5b56e2b983e54dba64",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851d9d27e5b56e2b983e54dba64",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-19T07:30:20.820Z",
-      "track": {
-        "id": "1fJFuvU2ldmeAm5nFIHcPP",
-        "name": "First Date",
-        "duration_ms": 171533,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
-        },
-        "artists": [
-          {
-            "id": "6FBDaR13swtiWwGhX1WQsP",
-            "name": "blink-182"
-          }
-        ],
-        "album": {
-          "name": "Take Off Your Pants And Jacket",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273d9d27e5b56e2b983e54dba64",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02d9d27e5b56e2b983e54dba64",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851d9d27e5b56e2b983e54dba64",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-19T07:27:29.317Z",
-      "track": {
-        "id": "2DcxTfOm8y2UgeP81qdidR",
-        "name": "Online Songs",
-        "duration_ms": 145733,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2DcxTfOm8y2UgeP81qdidR"
-        },
-        "artists": [
-          {
-            "id": "6FBDaR13swtiWwGhX1WQsP",
-            "name": "blink-182"
-          }
-        ],
-        "album": {
-          "name": "Take Off Your Pants And Jacket",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273d9d27e5b56e2b983e54dba64",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02d9d27e5b56e2b983e54dba64",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851d9d27e5b56e2b983e54dba64",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-19T07:25:03.577Z",
-      "track": {
-        "id": "24CRDgNOgA72JLL7PHFjgB",
-        "name": "Anthem Part Two",
-        "duration_ms": 227200,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
         },
         "artists": [
           {
