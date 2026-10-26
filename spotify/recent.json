@@ -849,40 +849,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-10-19T19:34:26.418Z",
-      "track": {
-        "id": "6c9UjtsLpfK5hTwTrdRDbR",
-        "name": "Story Of A Lonely Guy",
-        "duration_ms": 219666,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6c9UjtsLpfK5hTwTrdRDbR"
-        },
-        "artists": [
-          {
-            "id": "6FBDaR13swtiWwGhX1WQsP",
-            "name": "blink-182"
-          }
-        ],
-        "album": {
-          "name": "Take Off Your Pants And Jacket",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273d9d27e5b56e2b983e54dba64",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02d9d27e5b56e2b983e54dba64",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851d9d27e5b56e2b983e54dba64",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
