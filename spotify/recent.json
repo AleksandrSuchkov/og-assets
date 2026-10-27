@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "played_at": "2026-10-27T12:29:27.550Z",
+      "track": {
+        "id": "0OYcEfskah1egYHjYRvbg1",
+        "name": "Shadow of the Day",
+        "duration_ms": 289906,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
+        },
+        "artists": [
+          {
+            "id": "6XyY86QOPPrYVGvF9ch6wz",
+            "name": "Linkin Park"
+          }
+        ],
+        "album": {
+          "name": "Minutes to Midnight",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e026e996745f2c7b8036abef213",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-10-26T17:11:01.156Z",
       "track": {
         "id": "1TvNcWY7WwPLQINhimxycA",
