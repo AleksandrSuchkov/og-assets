@@ -1635,40 +1635,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-10-26T06:56:15.362Z",
-      "track": {
-        "id": "5JHNg1hxZFT7TDEphhM4wj",
-        "name": "Waiting for the End",
-        "duration_ms": 231680,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5JHNg1hxZFT7TDEphhM4wj"
-        },
-        "artists": [
-          {
-            "id": "6XyY86QOPPrYVGvF9ch6wz",
-            "name": "Linkin Park"
-          }
-        ],
-        "album": {
-          "name": "A Thousand Suns",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b27359211e56a493ac4509457bab",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e0259211e56a493ac4509457bab",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000485159211e56a493ac4509457bab",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
