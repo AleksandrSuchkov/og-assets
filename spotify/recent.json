@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "played_at": "2026-11-04T08:54:43.644Z",
+      "track": {
+        "id": "1GHqc0e7PQ6aEyGlvfSJzS",
+        "name": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
+        "duration_ms": 231866,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GHqc0e7PQ6aEyGlvfSJzS"
+        },
+        "artists": [
+          {
+            "id": "7dWYWUbO68rXJOcyA7SpJk",
+            "name": "Fort Minor"
+          },
+          {
+            "id": "62gL3RAdJAPUmjrYudnVjy",
+            "name": "Holly Brook"
+          },
+          {
+            "id": "3Ztgr9y1L9ZfoIOEsCrZEb",
+            "name": "Jonah Matranga"
+          }
+        ],
+        "album": {
+          "name": "The Rising Tied (Deluxe Edition)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273c5454d7ff89392760678c491",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02c5454d7ff89392760678c491",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851c5454d7ff89392760678c491",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-11-03T14:34:02.315Z",
       "track": {
         "id": "1Vej0qeQ3ioKwpI6FUbRv1",
@@ -1664,40 +1706,6 @@
             },
             {
               "url": "https://i.scdn.co/image/ab67616d000048519293c743fa542094336c5e12",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-28T14:11:57.415Z",
-      "track": {
-        "id": "3Uvx1TO0Kg5HgGPk58lHXv",
-        "name": "How's It Going to Be",
-        "duration_ms": 253413,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv"
-        },
-        "artists": [
-          {
-            "id": "6TcnmlCSxihzWOQJ8k0rNS",
-            "name": "Third Eye Blind"
-          }
-        ],
-        "album": {
-          "name": "Third Eye Blind",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2730c12ef918102b8d303dc9e9b",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e020c12ef918102b8d303dc9e9b",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048510c12ef918102b8d303dc9e9b",
               "width": 64
             }
           ]
