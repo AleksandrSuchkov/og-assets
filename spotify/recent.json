@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "played_at": "2026-11-07T10:39:48.556Z",
+      "track": {
+        "id": "32fEW4jygJjjnZh2iBa5IR",
+        "name": "Easier to Run",
+        "duration_ms": 204173,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32fEW4jygJjjnZh2iBa5IR"
+        },
+        "artists": [
+          {
+            "id": "6XyY86QOPPrYVGvF9ch6wz",
+            "name": "Linkin Park"
+          }
+        ],
+        "album": {
+          "name": "Meteora (Bonus Edition)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e028b5b6fa1326d996181e71dd7",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048518b5b6fa1326d996181e71dd7",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-07T10:33:09.999Z",
+      "track": {
+        "id": "21uSSPenJ90ki3QAko6tUq",
+        "name": "Dare You to Move",
+        "duration_ms": 249800,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21uSSPenJ90ki3QAko6tUq"
+        },
+        "artists": [
+          {
+            "id": "6S58b0fr8TkWrEHOH4tRVu",
+            "name": "Switchfoot"
+          }
+        ],
+        "album": {
+          "name": "The Beautiful Letdown (Deluxe Version)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273656001849b39dfee31b8d855",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02656001849b39dfee31b8d855",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851656001849b39dfee31b8d855",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-11-05T12:21:28.215Z",
       "track": {
         "id": "1cAMXz9mnvrqyQLSG4KeeE",
@@ -1566,142 +1634,6 @@
             },
             {
               "url": "https://i.scdn.co/image/ab67616d000048519b93fdd0664d11f6e57e4a02",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-31T10:46:01.732Z",
-      "track": {
-        "id": "6neVbkl7B2G4RvV2zwsJxO",
-        "name": "TODO Y NADA",
-        "duration_ms": 288576,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6neVbkl7B2G4RvV2zwsJxO"
-        },
-        "artists": [
-          {
-            "id": "0rpKM0MniNkXM1SLSglYUZ",
-            "name": "toe"
-          }
-        ],
-        "album": {
-          "name": "NOW I SEE THE LIGHT",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273c639158b8bcaa1918315463d",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02c639158b8bcaa1918315463d",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851c639158b8bcaa1918315463d",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-31T10:41:18.172Z",
-      "track": {
-        "id": "2BK4Z800UYNDAAerwSXnzr",
-        "name": "Compass",
-        "duration_ms": 312320,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2BK4Z800UYNDAAerwSXnzr"
-        },
-        "artists": [
-          {
-            "id": "2DZe9zw4ZNgEFPA8vRMade",
-            "name": "Uchu Conbini"
-          }
-        ],
-        "album": {
-          "name": "染まる音を確認したら",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2736ad8d74eec2e1835df79abf7",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e026ad8d74eec2e1835df79abf7",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048516ad8d74eec2e1835df79abf7",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-31T10:36:10.814Z",
-      "track": {
-        "id": "38667x3Dec9wsY6CEFVzr1",
-        "name": "Infinite Spice",
-        "duration_ms": 251600,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/38667x3Dec9wsY6CEFVzr1"
-        },
-        "artists": [
-          {
-            "id": "3qu0nHytyZet7JFUe2Afow",
-            "name": "Via Luna"
-          }
-        ],
-        "album": {
-          "name": "Infinite Spice",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2732f0288e54322a7339098b303",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e022f0288e54322a7339098b303",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048512f0288e54322a7339098b303",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-10-31T10:32:04.199Z",
-      "track": {
-        "id": "068ykMNlmJMqobxNmGLdV1",
-        "name": "Thank You Notes",
-        "duration_ms": 235000,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/068ykMNlmJMqobxNmGLdV1"
-        },
-        "artists": [
-          {
-            "id": "7yCsrobnwhkYF8bPkBw1EH",
-            "name": "Parachute Day"
-          }
-        ],
-        "album": {
-          "name": "Thank You Notes",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2734bc00ffa3db06d9b5f63fbc4",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e024bc00ffa3db06d9b5f63fbc4",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048514bc00ffa3db06d9b5f63fbc4",
               "width": 64
             }
           ]
