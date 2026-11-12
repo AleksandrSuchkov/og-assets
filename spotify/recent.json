@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "played_at": "2026-11-12T09:26:18.127Z",
+      "track": {
+        "id": "78Gzxi27GuNHTfkn2BylG4",
+        "name": "What Ever Happened?",
+        "duration_ms": 169506,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4"
+        },
+        "artists": [
+          {
+            "id": "0epOFNiUfyON9EYx7Tpr6V",
+            "name": "The Strokes"
+          }
+        ],
+        "album": {
+          "name": "Room On Fire",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e020f35726025e0f025da4c688f",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048510f35726025e0f025da4c688f",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-11-09T13:53:48.101Z",
       "track": {
         "id": "1FoUsSi9BCTlNt2Vd7V8XA",
@@ -470,108 +504,6 @@
             },
             {
               "url": "https://i.scdn.co/image/ab67616d000048518be9eeb8f19696ef2fd3b6b4",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-05T10:52:43.572Z",
-      "track": {
-        "id": "5HPj0yTUFEFNia8SWgjq46",
-        "name": "Open Your Eyes",
-        "duration_ms": 341280,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5HPj0yTUFEFNia8SWgjq46"
-        },
-        "artists": [
-          {
-            "id": "3rIZMv9rysU7JkLzEaC5Jp",
-            "name": "Snow Patrol"
-          }
-        ],
-        "album": {
-          "name": "Eyes Open",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e025da2756220da9b6f17924f8f",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048515da2756220da9b6f17924f8f",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-05T10:46:29.337Z",
-      "track": {
-        "id": "1EHh1fC9FCKw31wotfXx7L",
-        "name": "How Far We've Come",
-        "duration_ms": 212253,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1EHh1fC9FCKw31wotfXx7L"
-        },
-        "artists": [
-          {
-            "id": "3Ngh2zDBRPEriyxQDAMKd1",
-            "name": "Matchbox Twenty"
-          }
-        ],
-        "album": {
-          "name": "How Far We've Come",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2730f9b32498b1d1053d4cc5c9c",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e020f9b32498b1d1053d4cc5c9c",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048510f9b32498b1d1053d4cc5c9c",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-05T05:38:57.130Z",
-      "track": {
-        "id": "12tjs2HBsd4puDnUgZMKki",
-        "name": "23",
-        "duration_ms": 433160,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki"
-        },
-        "artists": [
-          {
-            "id": "3Ayl7mCk0nScecqOzvNp6s",
-            "name": "Jimmy Eat World"
-          }
-        ],
-        "album": {
-          "name": "Futures (Deluxe Edition)",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273f7d76f56dcec489d92bcfffc",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02f7d76f56dcec489d92bcfffc",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851f7d76f56dcec489d92bcfffc",
               "width": 64
             }
           ]
