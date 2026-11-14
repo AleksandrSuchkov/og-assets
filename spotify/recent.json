@@ -407,40 +407,6 @@
           ]
         }
       }
-    },
-    {
-      "played_at": "2026-11-07T10:33:09.999Z",
-      "track": {
-        "id": "21uSSPenJ90ki3QAko6tUq",
-        "name": "Dare You to Move",
-        "duration_ms": 249800,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/21uSSPenJ90ki3QAko6tUq"
-        },
-        "artists": [
-          {
-            "id": "6S58b0fr8TkWrEHOH4tRVu",
-            "name": "Switchfoot"
-          }
-        ],
-        "album": {
-          "name": "The Beautiful Letdown (Deluxe Version)",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273656001849b39dfee31b8d855",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02656001849b39dfee31b8d855",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851656001849b39dfee31b8d855",
-              "width": 64
-            }
-          ]
-        }
-      }
     }
   ]
 }
