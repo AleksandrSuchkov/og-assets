@@ -1,6 +1,108 @@
 {
   "items": [
     {
+      "played_at": "2026-11-19T17:05:06.726Z",
+      "track": {
+        "id": "0uZ0Ec6FkEwHGRhrtvcJAo",
+        "name": "Stone Over Water",
+        "duration_ms": 194225,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uZ0Ec6FkEwHGRhrtvcJAo"
+        },
+        "artists": [
+          {
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie"
+          }
+        ],
+        "album": {
+          "name": "I Built You A Tower",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2731356b24d48cbabc44384e753",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e021356b24d48cbabc44384e753",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048511356b24d48cbabc44384e753",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-19T16:30:18.793Z",
+      "track": {
+        "id": "2bfTC4W83goNET1BqrdEcK",
+        "name": "One Track Mind",
+        "duration_ms": 164379,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bfTC4W83goNET1BqrdEcK"
+        },
+        "artists": [
+          {
+            "id": "0OY528sf5HGsPB2xi8BJ4H",
+            "name": "Glom"
+          }
+        ],
+        "album": {
+          "name": "One Track Mind",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2733d7fe643cb3360b8250d6c6e",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e023d7fe643cb3360b8250d6c6e",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048513d7fe643cb3360b8250d6c6e",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-19T16:27:06.013Z",
+      "track": {
+        "id": "5a8qNDusdQ9l0VCOwIm0Dc",
+        "name": "A Sunday",
+        "duration_ms": 272533,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5a8qNDusdQ9l0VCOwIm0Dc"
+        },
+        "artists": [
+          {
+            "id": "3Ayl7mCk0nScecqOzvNp6s",
+            "name": "Jimmy Eat World"
+          }
+        ],
+        "album": {
+          "name": "Clarity (Expanded Edition)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273a1f2250ac7578d85938078ef",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02a1f2250ac7578d85938078ef",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851a1f2250ac7578d85938078ef",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-11-19T10:51:20.856Z",
       "track": {
         "id": "7MtlureL5VXmDnyoUeBxsd",
@@ -1600,108 +1702,6 @@
             },
             {
               "url": "https://i.scdn.co/image/ab67616d00004851ce4753274ffc86ec6e4dcc9c",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-14T14:16:27.335Z",
-      "track": {
-        "id": "3t3KrvtJoLsC8KSsdaloDg",
-        "name": "DISPLACE",
-        "duration_ms": 174909,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3t3KrvtJoLsC8KSsdaloDg"
-        },
-        "artists": [
-          {
-            "id": "5v61OSg53KaQxGMpErkBNp",
-            "name": "Anberlin"
-          }
-        ],
-        "album": {
-          "name": "CURRENCY",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b27302d286e239ea74ab9bac19f9",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e0202d286e239ea74ab9bac19f9",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000485102d286e239ea74ab9bac19f9",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-14T14:00:01.860Z",
-      "track": {
-        "id": "3qZHUZTQiTMfJXcUYzY5mT",
-        "name": "In the Stone",
-        "duration_ms": 288153,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
-        },
-        "artists": [
-          {
-            "id": "4QQgXkCYTt3BlENzhyNETg",
-            "name": "Earth, Wind & Fire"
-          }
-        ],
-        "album": {
-          "name": "I Am",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e028b2238ebc2b233ba73b8c4ca",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048518b2238ebc2b233ba73b8c4ca",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-12T17:26:45.344Z",
-      "track": {
-        "id": "5NnQpVPJKpFdGFkIdY1Gds",
-        "name": "My Own Soul’s Warning",
-        "duration_ms": 274453,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5NnQpVPJKpFdGFkIdY1Gds"
-        },
-        "artists": [
-          {
-            "id": "0C0XlULifJtAgn6ZNCW2eu",
-            "name": "The Killers"
-          }
-        ],
-        "album": {
-          "name": "Imploding The Mirage",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273f08d82ff69ae975e6e5f395e",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02f08d82ff69ae975e6e5f395e",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851f08d82ff69ae975e6e5f395e",
               "width": 64
             }
           ]
