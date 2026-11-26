@@ -1,6 +1,278 @@
 {
   "items": [
     {
+      "played_at": "2026-11-26T15:04:40.212Z",
+      "track": {
+        "id": "3NL6gBLjP9R2C5Wpcd1Yzo",
+        "name": "Easier Said Than Done",
+        "duration_ms": 185904,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NL6gBLjP9R2C5Wpcd1Yzo"
+        },
+        "artists": [
+          {
+            "id": "6yoW6SfviQ5D4Wa5jGxh7f",
+            "name": "Pool Kids"
+          }
+        ],
+        "album": {
+          "name": "Easier Said Than Done",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273c21801686dd25c8aeb775732",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02c21801686dd25c8aeb775732",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851c21801686dd25c8aeb775732",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-26T15:01:37.097Z",
+      "track": {
+        "id": "5uRHtHnLp46zWBSw8LxVXr",
+        "name": "my roommates are playing d&d - demo",
+        "duration_ms": 106440,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uRHtHnLp46zWBSw8LxVXr"
+        },
+        "artists": [
+          {
+            "id": "6hU7BmY0hzSFRIt3szp3B5",
+            "name": "brendon b"
+          }
+        ],
+        "album": {
+          "name": "my roommates are playing d&d (demo)",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2734ab8c82c0eb34462b2e25319",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e024ab8c82c0eb34462b2e25319",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048514ab8c82c0eb34462b2e25319",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-26T11:32:55.627Z",
+      "track": {
+        "id": "7HdXRMw14roDx2a0COWk3M",
+        "name": "This Is Why",
+        "duration_ms": 207652,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+        },
+        "artists": [
+          {
+            "id": "74XFHRwlV6OrjEM0A2NCMF",
+            "name": "Paramore"
+          }
+        ],
+        "album": {
+          "name": "This Is Why",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27305f425b3ea2d3609d2d8b962",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0205f425b3ea2d3609d2d8b962",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485105f425b3ea2d3609d2d8b962",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-26T11:26:25.033Z",
+      "track": {
+        "id": "24CRDgNOgA72JLL7PHFjgB",
+        "name": "Anthem Part Two",
+        "duration_ms": 227200,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
+        },
+        "artists": [
+          {
+            "id": "6FBDaR13swtiWwGhX1WQsP",
+            "name": "blink-182"
+          }
+        ],
+        "album": {
+          "name": "Take Off Your Pants And Jacket",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273d9d27e5b56e2b983e54dba64",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02d9d27e5b56e2b983e54dba64",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851d9d27e5b56e2b983e54dba64",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-26T11:22:21.520Z",
+      "track": {
+        "id": "1N79IF2r8yr0gU3LQdrL9r",
+        "name": "Do It For Me Now",
+        "duration_ms": 273840,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1N79IF2r8yr0gU3LQdrL9r"
+        },
+        "artists": [
+          {
+            "id": "7xklw3WodFZiNNmQt3DIgp",
+            "name": "Angels & Airwaves"
+          }
+        ],
+        "album": {
+          "name": "We Don't Need To Whisper",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b2738803d5c289ccf6c092aa1a68",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e028803d5c289ccf6c092aa1a68",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d000048518803d5c289ccf6c092aa1a68",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-26T11:13:36.220Z",
+      "track": {
+        "id": "0YJ9FWWHn9EfnN0lHwbzvV",
+        "name": "Jigsaw Falling Into Place",
+        "duration_ms": 248893,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"
+        },
+        "artists": [
+          {
+            "id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "name": "Radiohead"
+          }
+        ],
+        "album": {
+          "name": "In Rainbows",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851de3c04b5fc750b68899b20a9",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-26T11:05:10.106Z",
+      "track": {
+        "id": "5QUeSXjTMHbq1fW5da2waF",
+        "name": "Place To Be",
+        "duration_ms": 160925,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
+        },
+        "artists": [
+          {
+            "id": "5c3GLXai8YOMid29ZEuR9y",
+            "name": "Nick Drake"
+          }
+        ],
+        "album": {
+          "name": "Pink Moon",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273e369195caf5d169bf5e9eafc",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02e369195caf5d169bf5e9eafc",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851e369195caf5d169bf5e9eafc",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
+      "played_at": "2026-11-26T11:02:09.169Z",
+      "track": {
+        "id": "44L6RNTBjYRshdzeqd2d3S",
+        "name": "Goodbye",
+        "duration_ms": 286160,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/44L6RNTBjYRshdzeqd2d3S"
+        },
+        "artists": [
+          {
+            "id": "4nlqDmbzFzbNITaqjJv7D7",
+            "name": "The Sundays"
+          }
+        ],
+        "album": {
+          "name": "Blind",
+          "images": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b273bf4f519948b67b76868fda16",
+              "width": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e02bf4f519948b67b76868fda16",
+              "width": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d00004851bf4f519948b67b76868fda16",
+              "width": 64
+            }
+          ]
+        }
+      }
+    },
+    {
       "played_at": "2026-11-25T19:40:29.477Z",
       "track": {
         "id": "6yiSyupeI7KYdBZKJdnIUO",
@@ -1426,282 +1698,6 @@
             },
             {
               "url": "https://i.scdn.co/image/ab67616d00004851752b549c65bf5333612f554a",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-22T15:09:12.591Z",
-      "track": {
-        "id": "79W24F7vWsx0LfEcxFRwEz",
-        "name": "Wait Home",
-        "duration_ms": 211475,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/79W24F7vWsx0LfEcxFRwEz"
-        },
-        "artists": [
-          {
-            "id": "6AbXJxYckXHpMDApmUyP8A",
-            "name": "Beauvois"
-          }
-        ],
-        "album": {
-          "name": "Wait Home",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273c3d3555c9a53e69a05a11643",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02c3d3555c9a53e69a05a11643",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851c3d3555c9a53e69a05a11643",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-22T15:01:28.911Z",
-      "track": {
-        "id": "0TbUriU2INQ0wqNubRpFTX",
-        "name": "Nosedive",
-        "duration_ms": 339424,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
-        },
-        "artists": [
-          {
-            "id": "0KheksMhWogVV4frHAihPJ",
-            "name": "Man/Woman/Chainsaw"
-          }
-        ],
-        "album": {
-          "name": "Nosedive",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2739541a87f54145dae0d4000af",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e029541a87f54145dae0d4000af",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048519541a87f54145dae0d4000af",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-22T14:52:47.205Z",
-      "track": {
-        "id": "0D722SFWtFx5MbXiebXpKU",
-        "name": "Untitled",
-        "duration_ms": 471660,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0D722SFWtFx5MbXiebXpKU"
-        },
-        "artists": [
-          {
-            "id": "5ABfpj7Z00wfPiv2uW4MFm",
-            "name": "Knuckle Puck"
-          }
-        ],
-        "album": {
-          "name": "Copacetic",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2739961af823171cad5d130a788",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e029961af823171cad5d130a788",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048519961af823171cad5d130a788",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-22T14:44:58.321Z",
-      "track": {
-        "id": "0zcU626JV9kV61raS5sGu4",
-        "name": "FIX UR FACE (with Fred Durst)",
-        "duration_ms": 199068,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0zcU626JV9kV61raS5sGu4"
-        },
-        "artists": [
-          {
-            "id": "6TIYQ3jFPwQSRmorSezPxX",
-            "name": "mgk"
-          },
-          {
-            "id": "6xs3t4VrfszbO3YJg2wLPa",
-            "name": "Fred Durst"
-          }
-        ],
-        "album": {
-          "name": "FIX UR FACE (with Fred Durst)",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2736288e8f66d83c6cc1d36fb67",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e026288e8f66d83c6cc1d36fb67",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048516288e8f66d83c6cc1d36fb67",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-22T14:41:42.056Z",
-      "track": {
-        "id": "2ZwFHx3MqqXFZ5XnxAIxkN",
-        "name": "Weird Fishes",
-        "duration_ms": 288064,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2ZwFHx3MqqXFZ5XnxAIxkN"
-        },
-        "artists": [
-          {
-            "id": "1ysbwXaoc680W7mjAaOsP1",
-            "name": "le venado"
-          }
-        ],
-        "album": {
-          "name": "Weird Fishes",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2737e9a666c8dc0f20c5d808b64",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e027e9a666c8dc0f20c5d808b64",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048517e9a666c8dc0f20c5d808b64",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-22T14:36:51.799Z",
-      "track": {
-        "id": "2qmmnbJ9JR3f7vofbyje5r",
-        "name": "Slow Dance",
-        "duration_ms": 234853,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2qmmnbJ9JR3f7vofbyje5r"
-        },
-        "artists": [
-          {
-            "id": "3l0CmX0FuQjFxr8SK7Vqag",
-            "name": "Clairo"
-          }
-        ],
-        "album": {
-          "name": "Charm",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e02193c2fafdce8f116b5ca0a78",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00004851193c2fafdce8f116b5ca0a78",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-22T14:32:34.568Z",
-      "track": {
-        "id": "2nxsLJwW4eFDwl36fUQJWe",
-        "name": "Going to Babble On",
-        "duration_ms": 246226,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2nxsLJwW4eFDwl36fUQJWe"
-        },
-        "artists": [
-          {
-            "id": "0epOFNiUfyON9EYx7Tpr6V",
-            "name": "The Strokes"
-          }
-        ],
-        "album": {
-          "name": "Reality Awaits",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2736b458d1409d938dad4e3ba2c",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e026b458d1409d938dad4e3ba2c",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048516b458d1409d938dad4e3ba2c",
-              "width": 64
-            }
-          ]
-        }
-      }
-    },
-    {
-      "played_at": "2026-11-22T14:27:51.963Z",
-      "track": {
-        "id": "1EHh1fC9FCKw31wotfXx7L",
-        "name": "How Far We've Come",
-        "duration_ms": 212253,
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1EHh1fC9FCKw31wotfXx7L"
-        },
-        "artists": [
-          {
-            "id": "3Ngh2zDBRPEriyxQDAMKd1",
-            "name": "Matchbox Twenty"
-          }
-        ],
-        "album": {
-          "name": "How Far We've Come",
-          "images": [
-            {
-              "url": "https://i.scdn.co/image/ab67616d0000b2730f9b32498b1d1053d4cc5c9c",
-              "width": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d00001e020f9b32498b1d1053d4cc5c9c",
-              "width": 300
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616d000048510f9b32498b1d1053d4cc5c9c",
               "width": 64
             }
           ]
